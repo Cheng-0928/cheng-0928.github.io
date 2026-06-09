@@ -1,1 +1,10 @@
-{"stud001": {"f_name": "\u90b1\u5f65\u5091", "l_name": "118", "team": null}, "stud008": {"f_name": "\u674e\u69ae\u6069", "l_name": "315", "team": null}, "stud003": {"f_name": "\u76e7\u67cf\u660a", "l_name": "217", "team": null}, "stud005": {"f_name": "\u90b1\u5929\u5b87", "l_name": "118", "team": null}, "stud006": {"f_name": "\u4f59\u6069\u540c", "l_name": "113", "team": null}, "stud007": {"f_name": "\u4f55\u6770\u967d", "l_name": "214", "team": null}, "stud004": {"f_name": "\u90b1\u5b50\u7950", "l_name": "310", "team": null}, "stud002": {"f_name": "\u5433\u5ba5\u7948", "l_name": "218", "team": null}}
+{
+  "stud001": { "f_name": "邱彥傑", "l_name": "118", "team": "" },
+  "stud008": { "f_name": "李榮恩", "l_name": "315", "team": "" },
+  "stud003": { "f_name": "盧柏昊", "l_name": "217", "team": "" },
+  "stud005": { "f_name": "邱天宇", "l_name": "118", "team": "" },
+  "stud006": { "f_name": "余恩同", "l_name": "113", "team": "" },
+  "stud007": { "f_name": "何杰陽", "l_name": "214", "team": "" },
+  "stud004": { "f_name": "邱子祐", "l_name": "310", "team": "" },
+  "stud002": { "f_name": "吳宥祈", "l_name": "218", "team": "" }
+}
